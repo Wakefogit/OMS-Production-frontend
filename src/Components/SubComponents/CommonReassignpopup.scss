@@ -1,0 +1,87 @@
+.commonReassignModalContainer {
+    .ant-modal-content {
+      border: 1px solid #7abecc;
+    }
+    .reassign {
+      .reassign-heading {
+        font-family: "Roboto-Regular";
+        font-style: normal;
+        //font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        .sectionName{
+          font-family: "Roboto-Medium" !important;
+          font-style: normal ;
+        //   font-weight: 500;
+        // font-size: 16px;
+        // line-height: 24px;
+        padding-top: 20px;
+        }
+      }
+      .reassign-remark {
+        font-family: "Roboto-Medium" !important;
+        font-style: normal;
+        //font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 20px;
+      }
+      .remarks {
+        padding-top: 10px !important;
+      }
+      .Reassign-buttons {
+        margin-top: 25px;
+        .Reassign-Cancel-button {
+          margin-right: 15px;
+  
+          color: #00819d;
+          border: 2px solid #257a8c;
+          // font-family: "Red Hat Display";
+          font-family: "Roboto-Regular";
+          font-style: normal;
+          //font-weight: 600;
+          font-size: 14px;
+          line-height: 19px;
+        }
+        .Reassign-Confirm-button {
+          background-color: #00819d;
+          // font-family: "Red Hat Display";
+          font-family: "Roboto-Regular";
+          font-style: normal;
+          //font-weight: 600;
+          font-size: 14px;
+          line-height: 19px;
+        }
+      }
+    }
+  }
+  .Reassign-toast-msg{
+    .ant-space-item{
+      
+      display: block;
+      justify-content: end;
+      .ant-alert{
+        width: 400px;
+        height: 45px;
+        border-radius: 0px;
+        border-left:5px solid #00819d;
+      }
+    }
+  }
+  .Toast{
+    .ant-message-notice-content{
+    width: 450px;
+        height: 45px;
+        border-radius: 0px;
+        border-left:5px solid #00819d;
+      }
+  }
+  // .css-dev-only-do-not-override-26rdvq{ 
+  //      .ant-message-notice-content{
+  //     width: 400px;
+  //       height: 45px;
+  //       border-radius: 0px;
+  //       border-left:5px solid #00819d;
+  //   }
+  // }
+  

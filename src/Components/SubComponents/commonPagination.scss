@@ -1,0 +1,59 @@
+.commonPagination{
+        // margin-bottom: 20px;
+        // padding-bottom: 20px;
+        margin-right: 30px;
+        margin-top: 15px;
+    .ant-pagination-prev{
+        .prev-button{
+            font-size: 14px;
+            font-family: "Roboto-Regular";
+            color: #727272;
+            .arrowLeft{
+                margin: 0px 10px;
+            }
+        }
+    }
+    .ant-pagination-item-active{
+        background-color: transparent !important;
+    }
+    .ant-pagination-item{
+        min-width: 0 !important;
+        border: none !important;
+        a{
+            font-size: 14px !important;
+            font-family: "Roboto-Regular" !important;
+            color: #257A8C !important;
+        }
+    }
+    .ant-pagination-next{
+        .next-button{
+            font-size: 14px;
+            font-family: "Roboto-Regular";
+            color: #727272;
+            .arrowRight{
+                margin: 0px 10px;
+            }
+        }
+    }
+    .ant-pagination-options{
+        .ant-select-selector{
+            border: 1.5px solid #257A8C !important;
+        }
+    }
+}
+
+.hidePagination{
+    display: none;
+}
+.static{
+    padding: 5px;
+    position: absolute;
+    bottom: 0;
+    background: rgb(227, 226, 227);
+    width: 100%;
+    margin-bottom: 10px !important;
+    margin: auto;
+    height: 35px;
+}
+
+

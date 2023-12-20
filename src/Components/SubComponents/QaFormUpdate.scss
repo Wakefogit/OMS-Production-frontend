@@ -1,0 +1,290 @@
+.inprogress-expando-modal-collapse{
+  background: white !important;
+  border: none !important;
+  border-radius: none !important; 
+  box-shadow: none !important;
+}
+.inprogress-expando-collapse {
+  margin-left: 0px !important;
+  background: #f1fbfd;
+  border: 1.5px solid #a8cad1;
+  box-shadow: 1px 1px 1px #dadada;
+  border-radius: 4px;
+  padding: 0px 20px;
+  border-bottom: 10px solid #DADADA;
+  .inprogress-data-with-box {
+    margin: 5px 0;
+    // text-align: end;
+    .inprogress-data-with-box-title {
+      font-size: 14px;
+      font-family: "Roboto-Regular";
+      color: #262626;
+    }
+    .ant-form-item {
+      margin: 0px !important;
+    }
+    .inprogress-data-with-box {
+      background: #ffffff;
+      border: 1px solid #a7a7a7;
+      border-radius: 4px;
+      width: 60%;
+    }
+    .inprogress-data-with-box-disabled {
+      background-color: rgba(0, 0, 0, 0.04);
+      border: 1px solid #a7a7a7;
+      border-radius: 4px;
+      width: 60%;
+      .ant-input-disabled {
+        font-size: 14px !important;
+        font-family: "Roboto-Regular" !important;
+        color: #262626 !important;
+      }
+      .ant-input-suffix {
+        font-size: 14px !important;
+        font-family: "Roboto-Regular" !important;
+        color: #262626 !important;
+      }
+    }
+    .addButton {
+      font-size: 14px;
+      font-family: "Roboto-Regular";
+      color: #ffffff;
+      background: #85c0cc;
+      border-radius: 4px;
+      padding: 5px 10px;
+      margin: 0px 5px;
+      cursor: pointer;
+    }
+    .closeButton {
+      font-size: 10px;
+      font-family: "Roboto-Regular";
+      color: #ffffff;
+      background: #d38686;
+      border-radius: 4px;
+      padding: 5px 10px;
+      margin: 0px 5px;
+      cursor: pointer;
+    }
+    .inprogress-data-with-box-select {
+      width: 60%;
+      .ant-select-selector {
+        background: #ffffff;
+        border: 1px solid #a7a7a7;
+        border-radius: 4px;
+      }
+    }
+    .inprogress-data-with-long-box-title {
+      background: #ffffff;
+      border: 1px solid #a7a7a7;
+      border-radius: 4px;
+      width: 87%;
+    }
+    .inprogress-data-with-long-box-select {
+      width: 87%;
+      .ant-select-selector {
+        background: #ffffff;
+        border: 1px solid #a7a7a7;
+        border-radius: 4px;
+      }
+    }
+    .inprogress-data-with-small-box {
+      width: 50px;
+      background: #ffffff;
+      border: 1px solid #a7a7a7;
+      border-radius: 4px;
+    }
+    .inprogress-data-with-box-samll-select {
+      width: 70px;
+      margin: 0px 8px;
+      .ant-select-selector {
+        background: #ffffff;
+        border: 1px solid #a7a7a7;
+        border-radius: 4px;
+      }
+    }
+    .inprogress-data-with-time-picker {
+      width: 60%;
+      border: 1px solid #a7a7a7;
+      height: 35px;
+      border-radius: 3px;
+    }
+  }
+  .inprogress-remark-title-text {
+    font-family: "Roboto-Regular";
+    font-style: normal;
+    //font-weight: 400;
+    font-size: 14px;
+    margin: 0px;
+    // margin-left: 6px;
+    .qa-cutLengthTolerance {
+      margin-top: 12px;
+    }
+    .qa-PlannedInternalAlloy {
+      margin-top: 12px;
+    }
+    .qa-PlannedFrontEnd {
+      margin-top: 12px;
+    }
+    .qa-PlannedBackEnd {
+      margin-top: 12px;
+    }
+    .inprogress-planned-quenching {
+      display: flex;
+      justify-content: flex-start;
+      margin-top: 12px;
+    }
+    .inprogress-remark-input-box-pIAlloy{
+      margin-left: 0px;  
+    }
+    .inprogress-remark-input-box {
+      display: flex;
+      justify-content: flex-end;
+      
+      .qa-input-number {
+        width: 120px;
+        height: 32px;
+        box-sizing: border-box;
+        border: none;
+        margin: 0;
+        outline: none;
+        padding: 4px 11px;
+        color: rgba(0, 0, 0, 0.88);
+        font-size: 14px;
+        line-height: 1.5714285714285714;
+        list-style: none;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+          "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+        position: relative;
+        display: inline-block;
+
+        min-width: 0;
+        background-color: #ffffff;
+        background-image: none;
+        border-width: 1px;
+        border-style: solid;
+        border-color: #d9d9d9;
+        border-radius: 6px;
+        transition: all 0.2s;
+      }
+      .ant-form-item{
+        margin-bottom:0px ;
+      }
+      .ant-input {
+        width: 120px;
+      }
+      .ant-select {
+        width: 120px !important;
+      }
+      .ant-input-number {
+        width: 120px !important;
+      }
+    }
+    .ant-row {
+      margin: 8px;
+    }
+    .inprogress-remark-title {
+      font-size: 14px;
+      font-family: "Roboto-Regular";
+      color: #414141;
+      margin-left: 7px !important;
+      // margin: 16px;
+    }
+    .inprogress-remark-text {
+      background: #ffffff;
+      border: 1px solid #a7a7a7;
+      border-radius: 4px;
+    }
+  }
+  .inprogress-buttons {
+    margin: 20px 0px;
+    .inprogress-hold-complete-button {
+      .inprogress-hold-button {
+        width: 108px;
+        margin-left: 16px;
+        background: #fff7e6;
+        border: 2px solid #ffc72c;
+        box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
+          0px 2px 2px rgba(0, 0, 0, 0.14), 0px 1px 5px rgba(0, 0, 0, 0.12);
+        border-radius: 4px;
+        font-size: 14px;
+        font-family: "Roboto-Regular";
+        color: #262626;
+        margin: 0px 7px;
+        img {
+          margin-right: 5px;
+        }
+      }
+      .inprogress-complete-button {
+        width: 108px;
+        background: #e9fceb;
+        border: 2px solid #90cc96;
+        box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
+          0px 2px 2px rgba(0, 0, 0, 0.14), 0px 1px 5px rgba(0, 0, 0, 0.12);
+        border-radius: 4px;
+        font-size: 14px;
+        font-family: "Roboto-Regular";
+        color: #262626;
+        margin: 0px 15px 0px 15px;
+        img {
+          margin-right: 5px;
+        }
+      }
+      .inprogress-Reassign-button {
+        width: 108px;
+        background: white;
+        border: 2px solid #257a8c;
+        box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
+          0px 2px 2px rgba(0, 0, 0, 0.14), 0px 1px 5px rgba(0, 0, 0, 0.12);
+        border-radius: 4px;
+        font-size: 14px;
+        font-family: "Roboto-Regular";
+        color: #262626;
+        margin: 0px 7px;
+        .inprogress-Reassign-icon {
+          margin-right: 5px !important;
+        }
+      }
+    }
+    .inprogress-clear-update-button {
+      margin-right: 5px;
+
+      .inprogress-clear-button {
+        background: #ffffff;
+        border: 1px solid #257a8c;
+        box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
+          0px 2px 2px rgba(0, 0, 0, 0.14), 0px 1px 5px rgba(0, 0, 0, 0.12);
+        border-radius: 4px;
+        font-size: 14px;
+        font-family: "Roboto-Regular";
+        color: #257a8c;
+        margin: 0px 15px;
+      }
+      .inprogress-update-button {
+        background: #257a8c;
+        box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
+          0px 2px 2px rgba(0, 0, 0, 0.14), 0px 1px 5px rgba(0, 0, 0, 0.12);
+        border-radius: 4px;
+        font-size: 14px;
+        font-family: "Roboto-Regular";
+        color: #ffffff;
+      }
+    }
+  }
+  .inprogress-save-Modal-button, .inprogress-save-Modal-button:hover{
+    margin-right: 20px;
+    background: #257A8C;
+    box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px rgba(0, 0, 0, 0.14), 0px 1px 5px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: "Roboto-Regular";
+    color: #FFFFFF;
+  }
+}
+.ant-table-wrapper .ant-table-expanded-row-fixed{
+  padding: 0px !important;
+  background: white;
+}
+.required{
+  font-family: "Roboto-Regular";
+}

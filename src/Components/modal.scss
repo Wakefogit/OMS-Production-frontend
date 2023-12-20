@@ -1,0 +1,68 @@
+.modelDiv{
+    height: 60%;
+    .main-div{
+        padding: 10px ,10px,10px,10px;
+        background: #3F5462;
+        color: white;
+        height: 50px;
+        width: 100%;
+        .Edit-po{
+            padding: 10px 10px 10px 10px;
+        }
+        .x-button{
+            // margin: 10px 20px 10px 10px;
+            // padding: 5px;
+            // margin: 40px 20px 40px 20px;
+            // border-radius: 4px;
+            padding: 5px 5px;
+            // margin: 20px 30px 20px 0px;
+            margin: 30px;
+            font-size: 10px;
+            cursor: pointer;
+            background: #E96C61;
+            color: #FFFFFF;
+            border-radius: 2px;
+            border: none;
+            color: white;
+        }
+    }
+
+.ant-layout-sider-children{
+    background: #F4F4F4;
+    padding: 10px;
+    .ant-menu{
+        background: #F4F4F4;
+    }
+    .ant-menu-item {
+        color: black;
+    }
+    .ant-menu-item-selected{
+        background: #8CB7C0;
+    }
+    // .ant-menu-item-active{
+    //     background: none;
+    // }
+}
+.ant-layout-content{
+    margin: 0px !important;
+}
+.ant-menu-item:hover{
+    color: black !important;
+    background: #8CB7C0 !important;
+}
+.ant-menu-root{
+    border-inline-end: none !important;
+}
+   
+}
+.main-modal{
+        width: 95% !important;
+        // height: 60% !important;
+        .ant-modal-content{
+            padding: 0px !important;
+            margin-top: -45px;
+        }
+        .ant-modal-close{
+            display: none;
+        }
+}
