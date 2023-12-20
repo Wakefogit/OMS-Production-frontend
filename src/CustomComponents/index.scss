@@ -1,0 +1,60 @@
+.app-back-button {
+    display: flex;
+    align-items: center;
+    background-color: #C2D13B;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 0px 20px 0px 0px;
+
+    .arrow-container {
+        border-radius: 50%;
+        background-color: var(--app-FFFFFF);
+        color: var(--app-C2D13B);
+        height: 30px;
+        width: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .back-text {
+        color: var(--app-FFFFFF);
+        margin-left: 5px;
+        margin-right: 15px;
+        font-family: Roboto-regular;
+        font-size: 13px;
+    }
+}
+.app-blue-button, 
+.app-blue-button:hover{
+    background-color: #00819d;
+    font-family: "Roboto-Regular";
+    font-style: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: white !important;
+}
+.outline-blue-button, 
+.outline-blue-button:hover{
+    margin-right: 15px;
+    color: #00819d !important;
+    border: 2px solid #257a8c !important;
+    font-family: "Roboto-Regular";
+    font-style: normal;
+    font-size: 14px;
+    line-height: 19px;
+}
+.modal-text{
+    font-size: 16px;
+    padding: 10px 0 40px 0;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.ant-table-tbody {
+    .ant-table-cell {
+        .display-none{
+            // text-overflow: none !important;
+            // white-space: none !important;
+            overflow: initial !important;
+          }
+    }}
