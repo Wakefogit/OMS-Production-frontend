@@ -1,0 +1,81 @@
+@font-face{
+    font-family: "Arial-Regular";
+    font-style: normal;
+    src: url('../font/arial 1.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Arial-Bold";
+    font-style: normal;
+    src: url('../font/Arial 2.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Inter-Black";
+    font-style: normal;
+    src: url('../font/Inter-Black.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Inter-Bold";
+    font-style: normal;
+    src: url('../font/Inter-Bold.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Inter-ExtraBold";
+    font-style: normal;
+    src: url('../font/Inter-ExtraBold.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Inter-ExtraLight";
+    font-style: normal;
+    src: url('../font/Inter-ExtraLight.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Inter-Light";
+    font-style: normal;
+    src: url('../font/Inter-Light.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Inter-Medium";
+    font-style: normal;
+    src: url('../font/Inter-Medium.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Inter-Regular";
+    font-style: normal;
+    src: url('../font/Inter-Regular.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Inter-SemiBold";
+    font-style: normal;
+    src: url('../font/Inter-SemiBold.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "Inter-Thin";
+    font-style: normal;
+    src: url('../font/Inter-Thin.ttf') format('woff2');
+}
+
+@font-face{
+    font-family: "RedHat-Regular";
+    font-style: normal;
+    src: url('../font/RedHatDisplay-Regular.ttf') format('woff2');
+}
+@font-face{
+    font-family: "Roboto-Regular";
+    font-style: normal;
+    src: url('../font/Roboto-Regular.ttf') format('woff2');
+}
+@font-face{
+    font-family: "Roboto-Medium";
+    font-style: normal;
+    src: url('../font/Roboto-Medium.ttf') format('woff2');
+}
