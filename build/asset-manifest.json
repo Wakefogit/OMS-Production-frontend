@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a436068a.css",
+    "main.js": "/static/js/main.438a25ec.js",
+    "static/js/787.6b7c84d9.chunk.js": "/static/js/787.6b7c84d9.chunk.js",
+    "static/media/guyImage.svg": "/static/media/guyImage.f1570aef8dd6a3bf0edd7925a09d558f.svg",
+    "static/media/loginBackGround.png": "/static/media/loginBackGround.908f13b1cd5b68755dd0.png",
+    "static/media/rightBackGround.png": "/static/media/rightBackGround.3f50c67c9b28f8109dbc.png",
+    "static/media/accessDenied.jpg": "/static/media/accessDenied.52518e72c6853ea18b09.jpg",
+    "static/media/jindal_logo.svg": "/static/media/jindal_logo.edfac94006be22e934454fc51916f600.svg",
+    "static/media/404.png": "/static/media/404.7f77b00176ff3b6a06d6.png",
+    "static/media/adminUser.svg": "/static/media/adminUser.00f832bc79391148b6a1423400742159.svg",
+    "static/media/closeIcon1.svg": "/static/media/closeIcon1.127a5bc823e3da4394a0.svg",
+    "static/media/logoutIcon.svg": "/static/media/logoutIcon.f44466be8559fd6a6eda1d4b8d4cfbf6.svg",
+    "static/media/phoneInactive.svg": "/static/media/phoneInactive.57fd68761443aaa2d8a6e828381a859e.svg",
+    "static/media/infoIcon.svg": "/static/media/infoIcon.554583850c5c5b858763b52aaa71bf40.svg",
+    "static/media/filterIcon.svg": "/static/media/filterIcon.8130c22010478ee526eeb606d85f6a8c.svg",
+    "static/media/reAssignIcon.svg": "/static/media/reAssignIcon.0caa194a58023ce748817fb79af236b4.svg",
+    "static/media/emailIconInactive.svg": "/static/media/emailIconInactive.3c9a188b76b785c9051cccbbdf18f1cd.svg",
+    "static/media/emailIconSvg.svg": "/static/media/emailIconSvg.4d882a7b941bdf61af267246e2253011.svg",
+    "static/media/holdIcon.svg": "/static/media/holdIcon.f8e9e430c12e3f7712cc2fe16f5d8c4f.svg",
+    "index.html": "/index.html",
+    "static/media/recycle-icon.svg": "/static/media/recycle-icon.c26118306f8d0f69d23286508eeae720.svg",
+    "static/media/completeIcon.svg": "/static/media/completeIcon.2c51bf0e8fe796dea68984721fef6b78.svg",
+    "static/media/correctIcon.svg": "/static/media/correctIcon.2c51bf0e8fe796dea68984721fef6b78.svg",
+    "static/media/closeIcon.svg": "/static/media/closeIcon.9e367fceec76d495f6d14cb403941340.svg",
+    "static/media/crossIcon.svg": "/static/media/crossIcon.2342790e201c4468fc2d13386ba2fd37.svg",
+    "static/media/downloadIcon.svg": "/static/media/downloadIcon.6a027c20b61246563ece061580b46bce.svg",
+    "main.a436068a.css.map": "/static/css/main.a436068a.css.map",
+    "main.438a25ec.js.map": "/static/js/main.438a25ec.js.map",
+    "787.6b7c84d9.chunk.js.map": "/static/js/787.6b7c84d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a436068a.css",
+    "static/js/main.438a25ec.js"
+  ]
+}
